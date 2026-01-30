@@ -31,7 +31,7 @@ The following five classifiers were deployed to evaluate the integrity and predi
 ## 5. Performance Visualization
 The following grouped bar chart illustrates the accuracy trends across all 25 experimental iterations:
 
-![Model Accuracy Graph](graph.png)
+![Model Accuracy Graph](comparison_graph.png)
 
 ## 6. Empirical Results & Performance Matrix
 The accuracy scores (in %) for each model-sampling pair are detailed below:
