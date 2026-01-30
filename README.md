@@ -53,6 +53,6 @@ The accuracy scores (in %) for each model-sampling pair are detailed below:
 The experiment validates that while data balancing is a prerequisite for fraud detection, the **choice of sampling technique** combined with the right **machine learning architecture** is what determines final success. For this specific dataset, tree-based ensemble methods are recommended for maximum reliability.
 
 ---
-**Author:** [Your Name]  
+**Author:** Saniya Jindal
 **Tools:** Python, Scikit-learn, Pandas, Matplotlib  
 **Environment:** Google Colab
